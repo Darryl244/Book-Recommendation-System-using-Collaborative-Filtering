@@ -29,7 +29,7 @@ A Python-based recommender system built on the Book-Crossing dataset. Utilizes m
 ## Tech Stack
 
 ### Programming & Data
-- Python 3.8+  
+- Python  
 - Pandas  
 - NumPy  
 
