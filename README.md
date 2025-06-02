@@ -1,4 +1,4 @@
-# Book-Crossing Collaborative Filtering Recommender System
+# Book Recommendation System Using Collaborative Filtering
 
 A Python-based recommender system built on the Book-Crossing dataset. Utilizes matrix factorization (SVD and NMF) via the Surprise library to generate personalized book recommendations. Includes exploratory data analysis (EDA), model training, hyperparameter tuning, and error analysis.
 
